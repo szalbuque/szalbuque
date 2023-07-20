@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🖧 I’m a systems analyst;
+- 🖧 I’m a systems analyst and developer;
 - ☁️ I’m currently learning about cloud computing and devops;
 - 📫 How to reach me: szalbuque@gmail.com;
 
