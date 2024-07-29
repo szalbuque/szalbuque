@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🖧 I’m a systems analyst;
-- ☁️ I’m currently learning about cloud computing, devops and docs as code;
+- ☁️ I’m currently working as Scrum Master and Product Owner;
 - 📫 How to reach me: szalbuque@gmail.com;
 
 ### Techs 
