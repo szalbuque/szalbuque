@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🖧 I’m a systems analyst;
-- ☁️ I’m currently working as Scrum Master and Product Owner;
+- ☁️ Embracing an agile way of working, moving towards Product Owner and Scrum Master roles;
 - 📫 How to reach me: szalbuque@gmail.com;
 
 ### Techs 
